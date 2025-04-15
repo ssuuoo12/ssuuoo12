@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jquery](https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=Jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![Styled-Components](https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -34,5 +34,5 @@
 ---
 
 ### 📬 Contact
-![Velog](https://img.shields.io/badge/Velog-1C2526?style=for-the-badge&logo=velog&logoColor=20C997)
-![Email](https://img.shields.io/badge/Email-oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![github blog](https://ssuuoo12.github.io)
+![Email](https://img.shields.io/badge/Email-ssszzy333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
