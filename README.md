@@ -43,6 +43,6 @@
 ---
 
 ### 📬 Contact
-![github blog]([https://ssuuoo12.github.io](https://ssuuoo12.github.io/)
+[![github blog](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=github&logoColor=white)](https://ssuuoo12.github.io/)
 ![Email](https://img.shields.io/badge/Email-ssszzy333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </div>
