@@ -1,7 +1,7 @@
 <div align="center">
  <h2>Welcome to 지연's GitHub</h2>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=blur&color=&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
   
   
 </div>
