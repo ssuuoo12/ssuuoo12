@@ -22,8 +22,8 @@
 
 ---
 
-## 📊 GitHub 통계
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=ssuuoo12&show_icons=true&theme=radical)
+## 📊 사용 언어 비율
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuuoo12&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📬 Contact
