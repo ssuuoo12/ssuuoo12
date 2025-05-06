@@ -25,6 +25,10 @@
 ## 📊 사용 언어 비율
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuuoo12&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 사용 언어 비율
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuuoo12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 📬 Contact
 <a href="https://ssuuoo12.github.io/"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=github&logoColor=white"></a>
