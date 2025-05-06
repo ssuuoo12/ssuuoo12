@@ -22,6 +22,10 @@
 
 ---
 
+## 📊 GitHub 통계
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=ssuuoo12&show_icons=true&theme=radical)
+
+
 ### 📬 Contact
 <a href="https://ssuuoo12.github.io/"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=github&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Email-ssszzy333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
